@@ -6,7 +6,7 @@
 
 ## 📸 Tampilan Aplikasi
 
-Halaman Utama 
+| Halaman Utama |
 
 ![Halaman Utama](assets/home1.png) 
 
