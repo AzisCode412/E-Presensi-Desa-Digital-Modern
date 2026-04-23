@@ -10,6 +10,10 @@ Halaman Utama
 
 ![Halaman Utama](assets/home1.png) 
 
+| Halaman Absensi Masuk | Halaman Absensi Izin |
+|---|---|
+| ![Halaman Absensi Masuk](assets/absensi-masuk.png) | ![Halaman Absensi Izin](assets/absensi-izin.png) |
+
 
 --- 
 
