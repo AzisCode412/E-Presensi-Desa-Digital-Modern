@@ -8,7 +8,7 @@
 ![Dashboard Absensi](screenshots/dashboard.png)
 *Visualisasi grafik kehadiran dan statistik harian secara real-time.*
 
----
+--- 
 
 ## 🚀 Fitur Unggulan
 
