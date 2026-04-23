@@ -14,6 +14,13 @@
 |---|---|
 | ![Halaman Absensi Masuk](assets/absensi-masuk.png) | ![Halaman Absensi Izin](assets/absensi-izin.png) |
 
+| Halaman Login | Halaman Laporan |
+|---|---|
+| ![Halaman Login](assets/login.png) | ![Halaman Laporan](assets/laporan.png) |
+
+| Halaman Utama Setelah Absen |
+|---|
+| ![Halaman Utama Setelah Absen](assets/home.png) |
 
 --- 
 
