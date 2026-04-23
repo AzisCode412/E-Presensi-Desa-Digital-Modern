@@ -37,7 +37,7 @@ Repositori ini hanya berisi **dokumentasi dan demo**. Jika Anda tertarik untuk m
 
 * **Instagram:** [@zenalazis.dev](https://instagram.com/zenalazis.dev) (Respon Cepat)
 * **Portofolio Lain:** [AzisCode412 GitHub](https://github.com/AzisCode412)
-* **Linkedln:** [Zen Al Azis Linkedln](https://linkedin.com/zenalazis).
+* **Linkedln:** [Zen Al Azis Linkedln](https://linkedin.com/in/zenalazis).
 
 **Apa yang akan Anda dapatkan?**
 1. Full Source Code (Laravel Project).
