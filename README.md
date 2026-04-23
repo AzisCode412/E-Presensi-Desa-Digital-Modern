@@ -7,8 +7,8 @@
 ## 📸 Tampilan Aplikasi
 
 | Halaman Utama |
-
-![Halaman Utama](assets/home1.png) 
+|---|
+| ![Halaman Utama](assets/home1.png) |
 
 | Halaman Absensi Masuk | Halaman Absensi Izin |
 |---|---|
