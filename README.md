@@ -5,8 +5,11 @@
 ---
 
 ## 📸 Tampilan Aplikasi
-![Dashboard Absensi](screenshots/dashboard.png)
-*Visualisasi grafik kehadiran dan statistik harian secara real-time.*
+
+Halaman Utama 
+
+![Halaman Utama](assets/home.png) 
+
 
 --- 
 
