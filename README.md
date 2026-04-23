@@ -8,7 +8,7 @@
 
 Halaman Utama 
 
-![Halaman Utama](assets/home.png) 
+![Halaman Utama](assets/home1.png) 
 
 
 --- 
