@@ -37,7 +37,7 @@
 ## 🛠️ Teknologi (Tech Stack)
 
 Sistem ini dibangun dengan teknologi standar industri untuk menjamin keamanan dan performa:
-* **Backend:** Laravel 10/11
+* **Backend:** PHP
 * **Database:** MySQL
 * **Frontend:** Tailwind CSS / Bootstrap
 * **Reporting:** DomPDF (Export PDF Standard)
